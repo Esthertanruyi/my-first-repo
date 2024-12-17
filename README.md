@@ -1,4 +1,4 @@
 # my-first-repo
-## editing the file.
+## Editing the file.
 
-Its a first file i Created
+Its a first file I created
